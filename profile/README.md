@@ -3,15 +3,17 @@
 </p>
 
 ## 👥 팀원 소개  
-| 이름 | 역할 | 담당 영역 |
-|------|------|-----------|
-| 강민경 | 프론트엔드 |  |
-| 김성윤 | 프론트엔드 | |
-| 김예진 | 백엔드 |  |
-| 김지성 | 백엔드 |  |
-| 김태진 | 프론트엔드 |  |
-| 이정은 | 백엔드 |  |
-| 이하은 | 백엔드 |  |
+| Frontend | Frontend | Fronted |
+| :-----: | :-----: | :------: |
+| <img src="https://avatars.githubusercontent.com/u/109705781?v=4" width=200px alt="강민경"/> | <img src="https://avatars.githubusercontent.com/u/86221268?v=4" width=200px alt="김성윤"/> | <img src="https://avatars.githubusercontent.com/u/86095931?v=4" width=200px alt="김태진"/> |
+| [강민경](https://github.com/mingyeong0210)|[김성윤](https://github.com/tjddbs531)|[김태진](https://github.com/crossbat)|
+| 상품 검색, 등록, 조회, 수정 | 메인, 로그인, 회원가입 | 유저 프로필, 마이페이지 |
+
+| Backend | Backend | Backend | Backend |
+| :-----: | :-----: | :------: | :------: |
+| <img src="https://avatars.githubusercontent.com/u/109929675?s=96&v=4" width=200px alt="김예진"/> | <img src="https://avatars.githubusercontent.com/u/203613790?s=96&v=4" width=200px alt="김지성"/> | <img src="https://avatars.githubusercontent.com/u/93849731?s=96&v=4" width=200px alt="이정은"/> | <img src="https://avatars.githubusercontent.com/u/65845253?s=96&v=4" width=200px alt="이하은"/> |
+| [김예진](https://github.com/YeJin-Kim-code)|[김지성](https://github.com/jiseong1688)|[이정은](https://github.com/foreverkiddd)|[이하은](https://github.com/gkdms0605)|
+| auth | users | likes, comments | items |
 
 <br>
 
