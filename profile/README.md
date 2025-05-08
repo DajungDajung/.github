@@ -25,6 +25,6 @@
 <br>
 
 ## 🔗 기록 
- [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
- <br>
- [Notion](https://www.notion.so/2-1c1f93f59cb080268d2ac5933ad7835c?pvs=4)
+| 회의록 | 발표자료 |
+| :---: | :---: |
+| [Notion](https://www.notion.so/2-1c1f93f59cb080268d2ac5933ad7835c?pvs=4) | [PDF](../docs/DajungDajung.pdf) |
