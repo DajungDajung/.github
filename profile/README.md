@@ -13,7 +13,7 @@
 | :-----: | :-----: | :------: | :------: |
 | <img src="https://avatars.githubusercontent.com/u/109929675?s=96&v=4" width=200px alt="김예진"/> | <img src="https://avatars.githubusercontent.com/u/203613790?s=96&v=4" width=200px alt="김지성"/> | <img src="https://avatars.githubusercontent.com/u/93849731?s=96&v=4" width=200px alt="이정은"/> | <img src="https://avatars.githubusercontent.com/u/65845253?s=96&v=4" width=200px alt="이하은"/> |
 | [김예진](https://github.com/YeJin-Kim-code)|[김지성](https://github.com/jiseong1688)|[이정은](https://github.com/foreverkiddd)|[이하은](https://github.com/gkdms0605)|
-| auth | users | likes, comments | items |
+| auth | items | likes, comments | users |
 
 <br>
 
