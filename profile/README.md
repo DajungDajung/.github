@@ -25,6 +25,6 @@
 <br>
 
 ## 🔗 기록 
-| 회의록 | 발표자료 |
-| :---: | :---: |
-| [Notion](https://www.notion.so/2-1c1f93f59cb080268d2ac5933ad7835c?pvs=4) | [PDF](../docs/DajungDajung.pdf) |
+| 회의록 | 발표자료 | 고도화 발표자료 |
+| :---: | :---: | :---: |
+| [Notion](https://www.notion.so/2-1c1f93f59cb080268d2ac5933ad7835c?pvs=4) | [PDF](../docs/DajungDajung.pdf) | [PDF](../docs/DangjunDajungFinal.pdf) |
